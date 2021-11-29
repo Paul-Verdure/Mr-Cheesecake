@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Mr-Cheesecake/static/css/main.96bfc289.chunk.css",
+    "main.js": "/Mr-Cheesecake/static/js/main.7b99b733.chunk.js",
+    "main.js.map": "/Mr-Cheesecake/static/js/main.7b99b733.chunk.js.map",
+    "runtime-main.js": "/Mr-Cheesecake/static/js/runtime-main.12fd6fcf.js",
+    "runtime-main.js.map": "/Mr-Cheesecake/static/js/runtime-main.12fd6fcf.js.map",
+    "static/css/2.ed1298f3.chunk.css": "/Mr-Cheesecake/static/css/2.ed1298f3.chunk.css",
+    "static/js/2.5e6ece9d.chunk.js": "/Mr-Cheesecake/static/js/2.5e6ece9d.chunk.js",
+    "static/js/2.5e6ece9d.chunk.js.map": "/Mr-Cheesecake/static/js/2.5e6ece9d.chunk.js.map",
+    "index.html": "/Mr-Cheesecake/index.html",
+    "static/css/2.ed1298f3.chunk.css.map": "/Mr-Cheesecake/static/css/2.ed1298f3.chunk.css.map",
+    "static/css/main.96bfc289.chunk.css.map": "/Mr-Cheesecake/static/css/main.96bfc289.chunk.css.map",
+    "static/js/2.5e6ece9d.chunk.js.LICENSE.txt": "/Mr-Cheesecake/static/js/2.5e6ece9d.chunk.js.LICENSE.txt",
+    "static/media/Cheesecake.22eede90.jpg": "/Mr-Cheesecake/static/media/Cheesecake.22eede90.jpg",
+    "static/media/esteban.3e978326.jpg": "/Mr-Cheesecake/static/media/esteban.3e978326.jpg",
+    "static/media/Resultproduct.css": "/Mr-Cheesecake/static/media/home.50b0e592.jpg",
+    "static/media/lucille.0143a521.jpeg": "/Mr-Cheesecake/static/media/lucille.0143a521.jpeg",
+    "static/media/paul.953d0a14.png": "/Mr-Cheesecake/static/media/paul.953d0a14.png",
+    "static/media/sandra.32776ce3.jpg": "/Mr-Cheesecake/static/media/sandra.32776ce3.jpg",
+    "static/media/scan.3fd30d54.jpeg": "/Mr-Cheesecake/static/media/scan.3fd30d54.jpeg",
+    "static/media/unnamed.49ff43ee.jpg": "/Mr-Cheesecake/static/media/unnamed.49ff43ee.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12fd6fcf.js",
+    "static/css/2.ed1298f3.chunk.css",
+    "static/js/2.5e6ece9d.chunk.js",
+    "static/css/main.96bfc289.chunk.css",
+    "static/js/main.7b99b733.chunk.js"
+  ]
+}
